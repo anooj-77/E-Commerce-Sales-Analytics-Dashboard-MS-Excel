@@ -71,7 +71,7 @@ The dashboard uses a professional corporate colour palette:
 
 This project demonstrates practical skills in spreadsheet-based data analysis, KPI development, dashboard design, data summarization, and business reporting. It showcases how raw e-commerce data can be organized into an interactive and easy-to-understand analytical dashboard.
 
-## Author
+
 
 Created as a data analytics portfolio project.
 
